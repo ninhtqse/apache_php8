@@ -1,0 +1,30 @@
+[Mon Nov 07 21:15:47.960409 2022] [mpm_winnt:notice] [pid 8808:tid 400] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Nov 07 21:15:47.960409 2022] [mpm_winnt:notice] [pid 8808:tid 400] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Nov 07 21:15:47.960409 2022] [core:notice] [pid 8808:tid 400] AH00094: Command line: 'D:\\SERVER\\local\\Apache24\\bin\\httpd.exe -d D:/SERVER/local/Apache24'
+[Mon Nov 07 21:15:47.963416 2022] [mpm_winnt:notice] [pid 8808:tid 400] AH00418: Parent: Created child process 18000
+[Mon Nov 07 21:15:48.415223 2022] [mpm_winnt:notice] [pid 18000:tid 400] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 07 21:18:31.448021 2022] [mpm_winnt:notice] [pid 8808:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 07 21:18:33.473648 2022] [mpm_winnt:notice] [pid 18000:tid 400] AH00364: Child: All worker threads have exited.
+[Mon Nov 07 21:18:33.496186 2022] [mpm_winnt:notice] [pid 8808:tid 400] AH00430: Parent: Child process 18000 exited successfully.
+Starting the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10012: Failed to open the 'Apache2.4' service
+[Mon Nov 07 21:19:53.598152 2022] [mpm_winnt:notice] [pid 1656:tid 392] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Nov 07 21:19:53.598152 2022] [mpm_winnt:notice] [pid 1656:tid 392] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Nov 07 21:19:53.598152 2022] [core:notice] [pid 1656:tid 392] AH00094: Command line: 'D:\\SERVER\\local\\Apache24\\bin\\httpd.exe -d D:/SERVER/local/Apache24'
+[Mon Nov 07 21:19:53.600122 2022] [mpm_winnt:notice] [pid 1656:tid 392] AH00418: Parent: Created child process 16748
+[Mon Nov 07 21:19:53.926738 2022] [mpm_winnt:notice] [pid 16748:tid 400] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 07 21:20:17.508785 2022] [mpm_winnt:notice] [pid 1656:tid 392] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 07 21:20:47.523671 2022] [mpm_winnt:notice] [pid 1656:tid 392] AH00431: Parent: Forcing termination of child process 16748
+Starting the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10012: Failed to open the 'Apache2.4' service
+[Mon Nov 07 21:21:16.258154 2022] [mpm_winnt:notice] [pid 11100:tid 396] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Nov 07 21:21:16.258154 2022] [mpm_winnt:notice] [pid 11100:tid 396] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Nov 07 21:21:16.258154 2022] [core:notice] [pid 11100:tid 396] AH00094: Command line: 'D:\\SERVER\\local\\Apache24\\bin\\httpd.exe -d D:/SERVER/local/Apache24'
+[Mon Nov 07 21:21:16.260124 2022] [mpm_winnt:notice] [pid 11100:tid 396] AH00418: Parent: Created child process 15352
+[Mon Nov 07 21:21:16.627238 2022] [mpm_winnt:notice] [pid 15352:tid 432] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 07 21:22:12.197480 2022] [mpm_winnt:notice] [pid 11100:tid 396] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 07 21:22:42.203664 2022] [mpm_winnt:notice] [pid 11100:tid 396] AH00431: Parent: Forcing termination of child process 15352
+[Mon Nov 07 21:22:43.004489 2022] [mpm_winnt:notice] [pid 6212:tid 384] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Nov 07 21:22:43.004489 2022] [mpm_winnt:notice] [pid 6212:tid 384] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Nov 07 21:22:43.004489 2022] [core:notice] [pid 6212:tid 384] AH00094: Command line: 'D:\\SERVER\\local\\Apache24\\bin\\httpd.exe -d D:/SERVER/local/Apache24'
+[Mon Nov 07 21:22:43.006460 2022] [mpm_winnt:notice] [pid 6212:tid 384] AH00418: Parent: Created child process 19260

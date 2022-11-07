@@ -1,0 +1,4 @@
+[Mon Nov 07 21:19:57.007359 2022] [authz_core:error] [pid 16748:tid 1172] [client 127.0.0.1:62106] AH01630: client denied by server configuration: D:/SERVER/local/www/ninh.local/
+[Mon Nov 07 21:19:57.155363 2022] [authz_core:error] [pid 16748:tid 1172] [client 127.0.0.1:62106] AH01630: client denied by server configuration: D:/SERVER/local/www/ninh.local/favicon.ico, referer: http://ninh.local:8001/
+[Mon Nov 07 21:19:58.241073 2022] [authz_core:error] [pid 16748:tid 1172] [client 127.0.0.1:62106] AH01630: client denied by server configuration: D:/SERVER/local/www/ninh.local/
+[Mon Nov 07 21:19:58.305256 2022] [authz_core:error] [pid 16748:tid 1172] [client 127.0.0.1:62106] AH01630: client denied by server configuration: D:/SERVER/local/www/ninh.local/favicon.ico, referer: http://ninh.local:8001/

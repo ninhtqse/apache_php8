@@ -1,0 +1,22 @@
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using fe80::2d4e:9b19:baca:1512. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 07 21:01:51.453305 2022] [mpm_winnt:notice] [pid 836:tid 384] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Mon Nov 07 21:01:51.454304 2022] [mpm_winnt:notice] [pid 836:tid 384] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Nov 07 21:01:51.454304 2022] [core:notice] [pid 836:tid 384] AH00094: Command line: 'D:\\SERVER\\local\\Apache24\\bin\\httpd.exe -d D:/SERVER/local/Apache24'
+[Mon Nov 07 21:01:51.456304 2022] [mpm_winnt:notice] [pid 836:tid 384] AH00418: Parent: Created child process 9896
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2d4e:9b19:baca:1512. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2d4e:9b19:baca:1512. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 07 21:01:53.634532 2022] [mpm_winnt:notice] [pid 9896:tid 400] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 07 21:13:20.458393 2022] [mpm_winnt:notice] [pid 836:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 07 21:13:50.470353 2022] [mpm_winnt:notice] [pid 836:tid 384] AH00431: Parent: Forcing termination of child process 9896
+Starting the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10012: Failed to open the 'Apache2.4' service
+[Mon Nov 07 21:15:12.386523 2022] [mpm_winnt:notice] [pid 11556:tid 396] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Nov 07 21:15:12.386523 2022] [mpm_winnt:notice] [pid 11556:tid 396] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Nov 07 21:15:12.386523 2022] [core:notice] [pid 11556:tid 396] AH00094: Command line: 'D:\\SERVER\\local\\Apache24\\bin\\httpd.exe -d D:/SERVER/local/Apache24'
+[Mon Nov 07 21:15:12.388553 2022] [mpm_winnt:notice] [pid 11556:tid 396] AH00418: Parent: Created child process 10472
+[Mon Nov 07 21:15:12.709169 2022] [mpm_winnt:notice] [pid 10472:tid 408] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 07 21:15:45.080290 2022] [mpm_winnt:notice] [pid 11556:tid 396] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 07 21:15:47.105264 2022] [mpm_winnt:notice] [pid 10472:tid 408] AH00364: Child: All worker threads have exited.
+[Mon Nov 07 21:15:47.128267 2022] [mpm_winnt:notice] [pid 11556:tid 396] AH00430: Parent: Child process 10472 exited successfully.
